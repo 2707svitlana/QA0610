@@ -1,4 +1,4 @@
-package lesson6;
+package lesson5;
 
 public class Dogs {
 

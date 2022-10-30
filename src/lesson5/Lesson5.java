@@ -1,8 +1,10 @@
-package lesson6;
+package lesson5;
 
-public class Lesson6 {
+import lesson5.Dogs;
+
+public class Lesson5 {
     public static void main(String[] args) {
-        Dogs dogs = new Dogs ("Rada",5,"broun", 56);
+        var dogs = new Dogs ("Rada",5,"broun", 56);
 
 
         System.out.println(dogs.getAge());
